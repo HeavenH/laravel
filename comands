@@ -1,0 +1,2 @@
+sudo apt-get install php5.6-xml
+sudo apt-get install php5.6-mbstring
